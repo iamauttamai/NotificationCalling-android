@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationCalling</string>
+    <string name="default_notification_channel_id">98</string>
+</resources>
