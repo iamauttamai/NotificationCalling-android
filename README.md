@@ -9,6 +9,8 @@ NotificationCalling
 
 **Step 4** Add Body style raw like this.
 
+```json
+
 {
   "data": {
     "type": "call_windowNotification",
@@ -21,4 +23,7 @@ NotificationCalling
   "priority": "high",
   "registration_ids": ["YOUR_FCM_KEY"]
 }
+
+
+```
 
