@@ -5,7 +5,7 @@ NotificationCalling
 
 **Step 2** Calling postman service https://fcm.googleapis.com/fcm/send set method POST.
 
-**Step 3** Add header key is "Authorization" and your value is "key=YOUR_SERVER_KEY".
+**Step 3** Add Headers key is "Authorization" and your value is "key=YOUR_SERVER_KEY".
 
 **Step 4** Add Body style raw like this.
 
